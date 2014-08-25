@@ -1,15 +1,3 @@
-Public Keys
-===========
-
-This is a repository for public keys I want other people to be able to find and use.
-
-To send me secure email,
-use [this key](https://github.com/jloughry/public_keys/blob/master/Joe.Loughry.pub) to
-any of my email addresses.
-
-Here it is if you want to copy & paste:
-
-````
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -125,8 +113,3 @@ apy2AUzKpgadEwB9e+qfAycHOnFS8sbghh196RUhVhd6ad5Vl3ZbZvtZ+nZpPt/+
 FtISsv/2K56KZ45eQs51Pj+5a8tM/UQ=
 =XlAW
 -----END PGP PUBLIC KEY BLOCK-----
-````
-
-This key will work for any of my email addresses,
-such as [joe.loughry@stx.ox.ac.uk](mailto:joe.loughry@stx.ox.ac.uk)
-
